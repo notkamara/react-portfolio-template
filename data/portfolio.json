@@ -1,1 +1,168 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Kamara",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Kamara.",
+  "headerTaglineThree": "Truth seeker and developer.",
+  "headerTaglineFour": " Based in London, United Kingdom.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/notkamara"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/notkamara/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/notkamara"
+    },
+    {
+      "id": "4",
+      "title": "Youtube",
+      "link": "https://youtube.com/@notkamara"
+    },
+    {
+      "id": "5",
+      "title": "Blog",
+      "link": "https://notkamara.com/blog"
+    },
+    {
+      "id": "6",
+      "title": "Email",
+      "link": "mailto:mkamara3141@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Aurora",
+      "description": "AI Powered Productivity Tracker to Maximise Deep Work",
+      "imageSrc": "/aurora.png",
+      "url": "http://automateimprovement.com/"
+    },
+    {
+      "id": "2",
+      "title": "Talib",
+      "description": "Islamic Learning App built for iOS and Android devices to allow users to connect with Islam through curated learning paths, expert guidance, and a supportive community.",
+      "imageSrc": "/talib.png",
+      "url": "http://talibapp.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Sprinting",
+      "description": "I specialise in the 100m (60m when it's cold outside, 200m when I'm feeling fit).",
+      "url": "https://worldathletics.org/athletes/great-britain-ni/mohamed-kamara-15030569"
+    },
+    {
+      "id": "2",
+      "title": "Calisthenics",
+      "description": "Into all things calisthenics; from tucked planches to muscle ups. You name it; I've (probably) done it (please don't ask I beg of you).",
+      "url": "https://www.instagram.com/fitkamara"
+    },
+    {
+      "id": "3",
+      "title": "Self Improvement",
+      "description": "(Attempting) to improve myself in all areas of life since 2014.",
+      "url": "https://www.youtube.com/@notkamara"
+    },
+    {
+      "id": "4",
+      "title": "Seeking Truth",
+      "description": "From the dark depths of the internet to the highest mountains, I seek the truth.",
+      "url": "https://www.youtube.com/@notkamara"
+    }
+  ],
+  "aboutpara": "Craving to be a part of a collective that makes data, knowledge and truth (particularly through tech) more accessible for all; especially in an age where an unfathomably large amount of data exists out there that needs to be leveraged and curated in some way.",
+  "resume": {
+    "tagline": "👋  I'm a Computer Vision and Machine Learning Engineer",
+    "description": "Craving to be a part of a collective that makes data, knowledge and truth (particularly through tech) more accessible for all; especially in an age where an unfathomably large amount of data exists out there that needs to be leveraged and curated in some way.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "September 2024 - Present",
+        "type": "Full Time",
+        "position": "Aurora | Founder",
+        "bullets": "Developed an AI Powered Productivity Tracker to help 10x developers maximise Deep Work;Leverages LLM agents that schedules tasks and projects, finds relevant information using RAG, webscraping and api calls and gives actionable steps;https://automateimprovement.com"
+      },
+      {
+        "id": "2",
+        "dates": "November 2023 - Present",
+        "type": "Full Time",
+        "position": "Talib | Co-Founder",
+        "bullets": "Developed an Islamic Learning App built for iOS and Android devices to allow users to connect with Islam through curated learning paths, expert guidance, and a supportive community;https://talibapp.com"
+      },
+      {
+        "id": "3",
+        "dates": "October 2022 - October 2023",
+        "type": "Full Time",
+        "position": "Humanising Autonomy | Computer Vision and Machine Learning Engineer",
+        "bullets": "Designed, trained, and evaluated computer vision and deep learning models to understand and predict intent of vulnerable road users (pedestrians, cyclists etc) from camera footage;One example being with a premium dash cam customer  where we trained ResNet50 and XceptionNet to evaluate the orientation and dimensions of detected vehicles on various datasets  which also assisted in improving distance and velocity estimation;I used evaluation metrics such as orientation similarity and mean dimension error to weigh the datasets against each other. Along side these features, many others such as the number of frames a vehicle has been present for in a video were used in a random forest parked car classifier;The outputs of these models were used to inform insurance claims, forward collision warning and fleet management"
+      },
+      {
+        "id": "4",
+        "dates": "September 2022",
+        "type": "Project",
+        "position": "Lending Works Data Analysis",
+        "bullets": "The purpose of this project was to gain meaningful insights using statistical and supervised machine learning based approaches. This can be done using decision trees, K-nearest neighbours, SVM or neural network based classifiers;I explored all of these classifiers to see which provides the highest model accuracy after back testing. Calculations for the mean, standard deviation (variance) and correlation coefficients can also be made to further understand the numerical features;Repayment Status Prediction - Predict the probability of a loan being either repaying, repaid, cancelled, late or defaulted based on the features listed above. (Classification) Principal Outstanding Prediction: Predict how much of the loan will have been repaid. (Regression)"
+      },
+      {
+        "id": "5",
+        "dates": "October 2021 - June 2022",
+        "type": "Full Time",
+        "position": "Engineering Master's Thesis | 3D Human Digitisation",
+        "bullets": "This project explored image-based 3D human shape estimation which involves taking a single 2D image of a person as an input and an accurate 3D shape of that person is produced as an output using machine learning, computer vision and neural network based techniques;I made use of an existing open source framework called PIFu using Python. Replaced the network architecture with ResNet50 and resulted in a 2% decrease in latency on average and 13% increase in accuracy."
+      }
+    ],
+    "education": {
+      "universityName": "University of Oxford",
+      "universityDate": "September 2018 - July 2022",
+      "universityPara": "Modules chosen include Machine Learning, Computer Vision and Robotics, Computing Technology, Production Engineering, Mathematical Techniques and Convex Optimisation, Statistics, Dynamical Systems and Perturbation Methods. Activities and societies: President of Hip-Hop Society (2021-2022), University Athletics Club, St John's College League Basketball Club, Oxford University Racing, African-Caribbean Society."
+    },
+    "languages": [
+      "Python",
+      "TypeScript",
+      "C++",
+      "Java"
+    ],
+    "frameworks": [
+      "PyTorch",
+      "TensorFlow", 
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "OpenCV",
+      "Scikit-learn",
+      "Pygame",
+      "Node",
+      "React Native",
+      "Express",
+      "Next",
+      "Tailwind"
+    ],
+    "others": [
+      "MySQL",
+      "PostgreSQL", 
+      "Docker",
+      "AWS",
+      "Cloudflare",
+      "Vercel",
+      "Railway",
+      "Supabase",
+      "Stripe",
+      "Lemonsqueezy",
+      "Blender",
+      "Figma",
+      "Photoshop"
+    ]
+  }
+}
